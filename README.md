@@ -8,4 +8,4 @@ Use the GitHub API to get a list of all the issues in a private repo, and write 
 
 Specific
 
-* [**Format for metrics_key_ids.yaml**] List of new metric names into the same format as an existing yaml file.
+* [**Format for metrics_key_ids.yaml**](https://github.com/margaret/scripts/blob/master/format_gnss_metrics.py) List of new metric names into the same format as an existing yaml file.
