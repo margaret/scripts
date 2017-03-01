@@ -3,7 +3,7 @@
 """
 gnss_metrics.txt is a file in the local directory that was produced by running
 
-psql $DATABASE_URL -c "SELECT metrics_key_name FROM metrics_key_ids WHERE metrics_key_name LIKE '%GNSS%';" > gnss_metrics.txt
+psql $DATABASE_URL -c "SELECT metrics_key_name FROM metrics_key_ids WHERE metrics_key_name LIKE 'GNSS%';" > gnss_metrics.txt
 
 No descriptions for these. The following statement returned 0:
 
